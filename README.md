@@ -66,3 +66,13 @@ Frontend Configuration: Edit frontend/src/config.js to update API endpoints, pay
 ## Screenshots
 Here are some screenshots showcasing SecureStay's features:
 ![Homepage](ScreenShots/1.png)
+![Property Page](ScreenShots/2.png)
+![Property Description](ScreenShots/3.png)
+![Property ExtraInfo](ScreenShots/4.png)
+![Filters](ScreenShots/5.png)
+![Profile](ScreenShots/6.png)
+![Update Profile](ScreenShots/7.png)
+![Update Password](ScreenShots/8.png)
+![My Bookings](ScreenShots/9.png)
+![My Accomodations](ScreenShots/10.png)
+![Booking Information](ScreenShots/11.png)
