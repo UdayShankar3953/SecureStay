@@ -8,8 +8,6 @@ SecureStay is a platform that enables users to find and book unique places to st
 - [Setup and Installation](#setup-and-installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Screenshots](#screenshots)
 
 ## Architecture
@@ -52,14 +50,19 @@ To set up the SecureStay project, ensure you have Node.js and MongoDB installed 
   cd ../frontend
   npm start
 7.Open your browser and navigate to http://localhost:3000.
-##Configuration
+## Configuration
 To customize the project, update the configuration files as needed:
 
 Backend Configuration: Edit backend/config/default.json to update database connection strings, authentication secrets, etc.
 Frontend Configuration: Edit frontend/src/config.js to update API endpoints, payment gateway keys, etc.
-##Usage
+
+## Usage
 1.Sign up or log in to explore the platform.
 2.Use the search functionality to find properties.
 3.View property details, including descriptions, photos, and amenities.
 4.Book a property by selecting the desired dates and following the payment process.
 5.Manage your bookings and update profile information through the user profile section.
+
+## Screenshots
+Here are some screenshots showcasing SecureStay's features:
+![Homepage](ScreenShots/1.png)
