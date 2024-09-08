@@ -1,4 +1,4 @@
-# SecureStay - Airbnb Clone
+# SecureStay
 
 SecureStay is a platform that enables users to find and book unique places to stay while traveling. It offers a diverse range of accommodation options, from cozy homes to luxurious villas. Hosts can list their properties to earn extra income, while guests can explore and book these properties for a personalized stay. The project is built using the MERN stack (MongoDB, Express.js, React, Node.js), and includes key features like user authentication, property search, booking, and payment integration.
 
