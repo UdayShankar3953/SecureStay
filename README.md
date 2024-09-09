@@ -76,4 +76,3 @@ Here are some screenshots showcasing SecureStay's features:
 ![My Bookings](ScreenShots/9.png)
 ![My Accomodations](ScreenShots/10.png)
 ![Booking Information](ScreenShots/11.png)
-
